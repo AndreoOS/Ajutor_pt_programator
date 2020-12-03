@@ -1,0 +1,357 @@
+body {
+    font-family: 'Merriweather', serif;
+
+}
+
+.logo {
+    position: absolute;
+    left: 104px;
+    top: 69px;
+}
+
+.navi {
+    position: absolute;
+    width: 321px;
+    height: 40px;
+    left: 1003px;
+    top: 79px;
+}
+
+.login {
+    background-color: #263238;
+    color: #92E3A9;
+    font-size: 16px;
+    padding-top: 10px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    border-radius: 5px;
+
+}
+
+.cont {
+    background-color: white;
+    color: #263238;
+    position: absolute;
+    bottom: 10px;
+    left: 135px;
+    top: 10px;
+    width: 90px;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 20px;
+    white-space: nowrap;
+}
+
+.contact {
+    position: absolute;
+    left: 260px;
+    top: 10px;
+    bottom: 10px;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: #263238;
+}
+
+.fatacucartea {
+    position: relative;
+    width: 522.74px;
+    height: 539.85px;
+    left: 812px;
+    top: 218.71px;
+}
+
+.subtitle1 {
+    position: absolute;
+    width: 570px;
+    height: 115px;
+    left: 104px;
+    top: 321px;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 121.1%;
+    color: #263238;
+}
+
+.subtitle2 {
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    width: 535px;
+    height: 53px;
+    left: 104px;
+    top: 459px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #263238;
+}
+
+.butoane {
+    position: absolute;
+    width:506px;
+    left:104px;
+    right:857px;
+    top:574px;
+}
+
+.buton1 {
+    position: absolute;
+    width: 176px;
+    height: 40px;
+    left: 104px;
+    top: 574px;
+    background-color:  #263238;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 5px;
+    border-top: 10px;
+    border-bottom: 10px;
+    border-left: 20px;
+    border-right: 22px;
+}
+
+.buton2 {
+    position: absolute;
+    width: 269px;
+    height: 40px;
+    left: 314px;
+    top: 574px;
+    border-top: 10px;
+    border-bottom: 10px;
+    border-left: 17px;
+    background: #92E3A9;
+    border-radius: 5px;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+}
+
+.functionare {
+    position: absolute;
+    width: 100%;
+    height: 406px;
+    left: 0px;
+    top: 882px;
+    background-color:#92E3A9;
+}
+
+.cumfct {
+    width: 100%;
+    height: 63px;
+    left: 0px;
+    top: 49px;
+    text-align:center;
+    font-weight: bolder;
+    font-size: 40px;
+    background-color:#92E3A9;
+
+}
+
+.reguli {
+    position: absolute;
+    top:174px;
+    background-color:#92E3A9;
+
+}
+.regula1 {
+    position: relative;
+    text-align: left;
+    width: 70%;
+    height: 114px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 19px;
+
+    padding-left: 10px;
+    background-color:#92E3A9;
+
+
+    
+    color: #263238;
+}
+
+.regula2 {
+
+    position: relative;
+    text-align: left;
+    height: 114px;
+    width: 70%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 19px;
+
+    padding-left: 10px;
+    
+    background-color:#92E3A9;
+
+    color: #263238;
+}
+
+.regula3 {
+
+    position: relative;
+    text-align: left;
+    height: 114px;
+    width: 50%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 19px;
+
+    padding-left: 10px;
+
+    background-color:#92E3A9;
+
+    color: #263238;
+}
+
+.card1 {
+    position: absolute;
+    top: 1397px;
+    left:281px;
+    right:281px;
+    width:878px;
+    border:none;
+}
+
+.formular {
+    max-width: 878px;
+    height: 426px;
+    color: #263238;
+    padding-top: 34px;
+    padding-left: 43px;
+    padding-right: 44px;
+    position: relative;
+    background: #fff;
+    height: 100%;
+    border-radius: 5px;
+    -webkit-box-shadow:0px 10px 30px rgba(38, 50, 56, 0.2);
+    -moz-box-shadow: 0px 10px 30px rgba(38, 50, 56, 0.2);
+    box-shadow:0px 10px 30px rgba(38, 50, 56, 0.2);    
+}
+
+.buton {
+    background-color: #263238;
+    color: #92E3A9;
+    width: 126px;
+    height: 40px;
+    font-family: Merriweather;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+
+    border-radius: 5px;
+
+}
+
+.numeform {
+    width: 350px;
+    height: 40px;
+    border: 1px solid #263238;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.emailform {
+    width: 350px;
+    height: 40px;
+    border: 1px solid #263238;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.injuraturaform{
+    border: 1px solid #263238;
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 350px;
+    height: 82px;
+    resize: none;
+}
+
+.titlu1 {
+
+    width: 341px;
+
+    font-family: 'Merriweather', serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 29px;
+    line-height: 121.1%;
+    /* or 35px */
+
+    color: #263238;   
+}
+
+.titlu2 {
+    width: 225px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 121.1%;
+    /* or 19px */
+    color: #263238;
+}
+
+.final {
+    position: absolute;
+    width: 100%;
+    top:1964px;
+    background-color: #263238;
+    color: white;
+    text-align: center;
+}
+
+.social {
+    height:65px;
+    text-align: center;
+    justify-content: center;
+    padding-top: 31px;
+}
+
+.copyright { 
+    height:65px;
+    padding-top: 31px;
+    text-align: center;
+    justify-content: center;
+    font-family: Merriweather;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+#overlay {
+    width: 488px;
+    height: 641px;
+}
